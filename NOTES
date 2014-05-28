@@ -14,6 +14,8 @@ http://www.evoscan.com/technical-vehicle-manuals/12-mitsubishi-diagnostics
 5) OBD2 : http://evoecu.logic.net/wiki/OBD-II_Protocol
 6) Glossary: http://evoecu.logic.net/wiki/Glossary#ECU_-_Engine_Control_unit
 
+7) jd2xx is a Java native interface port for FTDI: http://bleyer.org/jd2xx/
+
 
 TODO:
 1) try to check the DTC with evoscan 
