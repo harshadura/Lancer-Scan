@@ -1,6 +1,17 @@
 Links:
 
-1) http://evoecu.logic.net/wiki/Helpful_Links
+1) helpful links: http://evoecu.logic.net/wiki/Helpful_Links
+downloads : http://evoecu.logic.net/mirror/
+
+2) MUT3 manual: http://evoecu.logic.net/mirror/mitsu/Mitsubishi_MUTIII_Manual.PDF
+3) MUT requests:  
+http://evoecu.logic.net/mirror/svn/documents/MUT%20requests.txt
+http://evoecu.logic.net/wiki/MUT_Requests
+http://evoecu.logic.net/mirror/svn/documents/
+4) Mitsu DTCs : http://evoecu.logic.net/mirror/svn/documents/Diagnostic%20Trouble%20Codes.txt
+5) OBD2 : http://evoecu.logic.net/wiki/OBD-II_Protocol
+6) Glossary: http://evoecu.logic.net/wiki/Glossary#ECU_-_Engine_Control_unit
+
 
 TODO:
 1) try to check the DTC with evoscan 
