@@ -21,3 +21,4 @@ TODO:
 1) try to check the DTC with evoscan 
 2) try the logworks program: http://www.innovatemotorsports.com/support.php
 3) try ecuflash soft: http://www.openecu.org/index.php?title=EcuFlash
+4) write a scanner project using jd2xx java wrapper for FTDI :)
