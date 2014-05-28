@@ -15,6 +15,7 @@ http://www.evoscan.com/technical-vehicle-manuals/12-mitsubishi-diagnostics
 6) Glossary: http://evoecu.logic.net/wiki/Glossary#ECU_-_Engine_Control_unit
 
 7) jd2xx is a Java native interface port for FTDI: http://bleyer.org/jd2xx/
+another ftdi java wrapper: http://sourceforge.net/projects/ftd2xxj/
 
 
 TODO:
