@@ -1,4 +1,4 @@
-lancer-scan
+Lancer-Scan
 ===========
 
-Basic scan tool for Mitsubishi Lancers which use MUT3 protocol of OBD2
+Basic scan tool for Mitsubishi Lancers which use MUT3 protocol over OBD2
