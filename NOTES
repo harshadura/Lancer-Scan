@@ -35,4 +35,4 @@ http://stackoverflow.com/questions/22465640/using-ftd2xx-driver-on-windows-and-a
 
   
   Remove VCP: 
-  sudo rmmod ftdi_s; sudo rmmod usbserial;
+  sudo rmmod ftdi_sio; sudo rmmod usbserial;
