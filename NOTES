@@ -32,3 +32,7 @@ http://stackoverflow.com/questions/23265000/im-creating-an-android-application-t
 EcuID:E204
 
 http://stackoverflow.com/questions/22465640/using-ftd2xx-driver-on-windows-and-android
+
+  
+  Remove VCP: 
+  sudo rmmod ftdi_s; sudo rmmod usbserial;
